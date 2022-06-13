@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+<h1 align="center">Analysis of Randomization Effects on Sim2Real Transfer in Reinforcement Learning for Robotic Manipulation Tasks</h1>
 
-You can use the [editor on GitHub](https://github.com/josifovski/sim2real-randomization-effects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h4 align="center">Josip Josifovski<sup>(1)</sup>, Mohammadhossein Malmir<sup>(1)</sup>, Noah Klarmann<sup>(2)</sup>, Bare Luka Zagar<sup>(1)</sup>, Nicolás Navarro-Guerrero<sup>(3)</sup> and Alois Knoll<sup>(1)</sup></h4>
+<p align="center">
+<br><sup>(1)</sup> Department of Informatics, Technical University of Munich, Germany
+<br><sup>(2)</sup> Rosenheim University of Applied Sciences, Rosenheim, Germany
+<br><sup>(3)</sup> Deutsches Forschungszentrum für Künstliche Intelligenz GmbH, Germany.
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This work has been financially supported by AI4DI project, which has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No.\ 826060. The JU receives support from the European Union’s Horizon 2020 research and innovation programme, Germany, Austria, Czech Republic, Italy, Latvia, Belgium, Lithuania, France, Greece, Finland, and Norway.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/josifovski/sim2real-randomization-effects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+... Under development ...

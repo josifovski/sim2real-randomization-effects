@@ -9,4 +9,11 @@
 
 This work has been financially supported by AI4DI project, which has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No.\ 826060. The JU receives support from the European Union’s Horizon 2020 research and innovation programme, Germany, Austria, Czech Republic, Italy, Latvia, Belgium, Lithuania, France, Greece, Finland, and Norway.
 
+Accepted to IROS 2022, <a href="https://arxiv.org/abs/2206.06282">preprint</a>
+
+Suplementary video:
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05FAYL6UiMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ... Under development ...
